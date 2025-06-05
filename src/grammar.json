@@ -7516,15 +7516,15 @@
           "name": "_unannotated_type"
         },
         {
-          "type": "STRING",
-          "value": "..."
-        },
-        {
           "type": "REPEAT",
           "content": {
             "type": "SYMBOL",
             "name": "_annotation"
           }
+        },
+        {
+          "type": "STRING",
+          "value": "..."
         },
         {
           "type": "SYMBOL",
@@ -7866,5 +7866,6 @@
     "_simple_type",
     "_unannotated_type",
     "module_directive"
-  ]
+  ],
+  "reserved": {}
 }
